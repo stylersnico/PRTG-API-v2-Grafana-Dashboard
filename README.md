@@ -10,6 +10,9 @@ Also, the new PRTG api is available on port 1616 by default and must be enabled.
 You need to install the Infinity datasource in Grafana.
 Please find the latest installation instructions directly on their website: https://grafana.com/grafana/plugins/yesoreyeram-infinity-datasource/?tab=installation
 
+# Exploring the PRTG API v2
+The API reference is available inside your PRTG server here: https://monitoring.prtg.server:1616/api/v2/oas/#/
+
 # Configuring the datasource
 
 Create a new datasource "prtg-v2" using the Infinity plugin.
